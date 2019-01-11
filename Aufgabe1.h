@@ -21,4 +21,5 @@ void on_btnFillImage_clicked();
 void on_pushbutton_clicked();
 lets try again.
 lets try tp revert it;
+last turn;
 };
